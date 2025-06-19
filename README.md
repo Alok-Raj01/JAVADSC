@@ -9,7 +9,7 @@ Welcome to my 30-day journey into Java programming! This series is dedicated to 
 
 | Day | Topic                            | Goal                                                                 | Status       | Link       |
 |-----|----------------------------------|----------------------------------------------------------------------|--------------|------------|
-| 1   | Java Setup & Hello World         | Install JDK, set up IDE, print "Hello World"                         | ⏳ Pending   | [Day01](./Day01) |
+| 1   | Java Setup & Hello World         | Install JDK, set up IDE, print "Hello World"                         | ✅️ Completed   | [Day01](./Day01) |
 | 2   | Variables & Data Types           | Learn `int`, `double`, `char`, `boolean`, and `String`              | ⏳ Pending   | [Day02](./Day02) |
 | 3   | Operators                        | Arithmetic, logical, assignment, comparison                          | ⏳ Pending   | [Day03](./Day03) |
 | 4   | Conditional Statements           | Use `if`, `else`, and `switch` statements                           | ⏳ Pending   | [Day04](./Day04) |
