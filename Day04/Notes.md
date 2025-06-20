@@ -22,4 +22,4 @@ if(true){
 this type provides us a feature to Run a code if statement is false too
 if the statement is true the u can ran a set of code and its it's not true u can ran a different ste of code 
 here's the flow chart and example u will find help full
-[if else flow ](https://github.com/Alok-Raj01/JAVADSC/blob/main/Srcs/New%20Project%203%20%5B9070275%5D.png)
+![if else flow ](https://github.com/Alok-Raj01/JAVADSC/blob/main/Srcs/New%20Project%203%20%5B9070275%5D.png)
