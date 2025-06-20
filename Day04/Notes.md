@@ -39,3 +39,7 @@ System.out.print("you are an adult");
 // In case of User1Age the output will be , u are not an adult
 //but in case of User2Age the output will be , u r an adult 
 ```
+
+## there is sub variant of if else statement,  
+> so in case u want to add multiple if else statements then u can easily add , just repeat the if statement after else here the example see and try it out yourself
+```java
