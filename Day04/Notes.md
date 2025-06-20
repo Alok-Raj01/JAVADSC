@@ -49,7 +49,7 @@ if(true){
 }else if(true){
    // This code will run
 }else{
-    if none conditions are true the this else statement will run 
+   // if none conditions are true the this else statement will run 
 }
 
 
