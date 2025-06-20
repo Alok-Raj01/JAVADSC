@@ -10,3 +10,9 @@ This can be divid into 3 types:
 # If statement :
 here's the flow chart,  help u ti understand 
 ![Cool Image](https://github.com/Alok-Raj01/JAVADSC/blob/main/Srcs/New%20Project%202%20%5B38510E2%5D.png)
+if the condition is true then the code in statement will run else the statement will skip 
+```java
+
+if(true){
+ System.out.print("it's true")
+}
