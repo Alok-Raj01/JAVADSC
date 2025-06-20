@@ -60,4 +60,6 @@ if(true){
 switches works I same way but we set all the cases at once then let it runs according to users input 
 for example if user enters 1 them hello will print , if user entered 2 then hii will print and till the as manny cases u want , this is made to make the Conditional statement more creat and understandable if the code became too long
 
-> these the flow chart , conditions are made with cases and each case works on a specific input 
+> these the flow chart , conditions are made with cases and each case works on a specific input
+
+![flowchart](https://github.com/Alok-Raj01/JAVADSC/blob/main/Srcs/New%20Project%204%20%5B6B3ECA8%5D.png)
