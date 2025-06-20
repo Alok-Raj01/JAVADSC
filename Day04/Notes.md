@@ -14,7 +14,7 @@ if the condition is true then the code in statement will run else the statement 
 ```java
 
 if(true){
- System.out.print("it's true")
+ System.out.print("it's true");
 }
 ```
 ---
@@ -32,9 +32,10 @@ int User2Age = 21
 
 // let's see with user one
 if(User1Age >= 18 ){
-System.out.print("you are an adult")
+System.out.print("you are an adult");
 } else {
- System.out.print("you are not an adult")
+ System.out.print("you are not an adult");
 }
 // In case of User1Age the output will be , u are not an adult
 //but in case of User2Age the output will be , u r an adult 
+```
