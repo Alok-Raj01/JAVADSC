@@ -57,9 +57,32 @@ if(true){
 
 
 # Switch 
-switches works I same way but we set all the cases at once then let it runs according to users input 
+switches works the same way but we set all the cases at once then let it runs according to users input 
 for example if user enters 1 them hello will print , if user entered 2 then hii will print and till the as manny cases u want , this is made to make the Conditional statement more creat and understandable if the code became too long
 
 > these the flow chart , conditions are made with cases and each case works on a specific input
 
 ![flowchart](https://github.com/Alok-Raj01/JAVADSC/blob/main/Srcs/New%20Project%204%20%5B6B3ECA8%5D.png)
+
+> herself the Code and example that will make you understand better...
+```java
+
+Switch (variable){ // the variable that will going to have cases on
+case 1 : //code1;
+     break;
+case 1 : // code2;
+     break;
+default : // code 3 
+}
+
+```
+> we add break; after each case because if we don't do that , then it will just run all the cases at once
+
+# Arguments
+### Use of oprators 
+if(condition){} here word condition called as argument , and argument cane be two things at last TRUE or FALSE 
+we xan add arguments by any means foe example..
+> if(5 > 3)......
+> if(age => 18)......
+> by this u can use oprators, and if u wanna add 2 statements at a time the eyes is a way
+> it's 'and' & 'or' in coding languages we represents and ==> && and we represent or ==> ||, so that's also can be added to add multiple situations ,if u used and then both the statements should be true and if u used or , both of them should be false 
