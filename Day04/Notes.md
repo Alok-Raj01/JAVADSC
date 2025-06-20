@@ -7,8 +7,6 @@ This can be divid into 3 types:
 2. if else statements
 3. switch
 
-# If statement : 
-Syntax : 
-    if (condition){
-      // code 
-    }
+# If statement :
+here's the flow chart,  help u ti understand 
+![Cool Image](https://github.com/Alok-Raj01/JAVADSC/blob/main/Srcs/New%20Project%202%20%5B38510E2%5D.png)
