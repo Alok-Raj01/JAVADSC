@@ -11,4 +11,6 @@ for(int i = 0;i <=10 ; i++){
 ```
 > here the loop starts from 0 , loop ends with 10 and everything it repeats it will increase with one 
 > herself the flow chart to understand better
+
+
 ![flowchart](https://github.com/Alok-Raj01/JAVADSC/blob/main/Srcs/Screenshot_20250621_090210_Canva.jpg)
