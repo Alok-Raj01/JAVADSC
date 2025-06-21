@@ -5,7 +5,7 @@ in for loop in decalear an variable inside the statement then set limit and and 
 here's the example and syntax 
 ```java
 for(int i = 0;i <=10 ; i++){
-   System.out.print(i)
+   System.out.print(i);
 }
 // this little program will print counting from 0 to 10
 ```
@@ -22,10 +22,20 @@ for(int i = 0;i <=10 ; i++){
 this works same but this works on condition , in for loop we give number to make itrations and in while loop whe give condition that means the iterations are not define here , until the condition are true then it will run in loop and as condition false then loop breaks...
 
 ```java
-int i = 0
+int i = 0;
 while(condition){
    // code to Run
   i++
 }
 ```
 
+# Do while loop 
+this type also takes condition as argumentand it is similar to while loop but one major difference is it do atlest one time run even the condition didn't satisfied 
+here the syntax 
+```java
+
+do{
+   // code to be run in loop
+}while(condiation);
+
+```
