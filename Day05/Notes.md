@@ -14,3 +14,18 @@ for(int i = 0;i <=10 ; i++){
 
 
 ![flowchart](https://github.com/Alok-Raj01/JAVADSC/blob/main/Srcs/Screenshot_20250621_090210_Canva.jpg)
+
+> while loop also works on the same way ,the major difference is the syntax and manual update of increasing variable ..
+
+# while loop
+
+this works same but this works on condition , in for loop we give number to make itrations and in while loop whe give condition that means the iterations are not define here , until the condition are true then it will run in loop and as condition false then loop breaks...
+
+```java
+int i = 0
+while(condition){
+   // code to Run
+  i++
+}
+```
+
